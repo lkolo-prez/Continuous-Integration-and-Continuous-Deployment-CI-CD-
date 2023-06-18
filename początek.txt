@@ -1,0 +1,41 @@
+Continuous Integration (CI) i Continuous Deployment/Delivery (CD) to ważne praktyki w nowoczesnym rozwoju oprogramowania. Pozwalają one na automatyzację procesów testowania i wdrażania aplikacji, co prowadzi do szybszego tworzenia, bardziej niezawodnych aplikacji. Aby rozpocząć naukę CI/CD, można podążać za poniższymi krokami:
+
+Zrozumienie podstaw CI/CD:
+Zacznij od zrozumienia, czym są Continuous Integration, Continuous Deployment i Continuous Delivery, jakie są ich cele i jakie korzyści mogą przynieść.
+
+Zapoznanie się z koncepcjami i narzędziami:
+Przeanalizuj podstawowe koncepcje, takie jak automatyzacja, testowanie, konteneryzacja i wersjonowanie kodu. Następnie zapoznaj się z popularnymi narzędziami CI/CD, takimi jak Jenkins, GitLab CI/CD, Travis CI, CircleCI, GitHub Actions czy Azure DevOps.
+
+Naucz się używać systemów kontroli wersji:
+Biegłość w korzystaniu z systemów kontroli wersji, takich jak Git, jest kluczowa dla CI/CD. Naucz się podstawowych poleceń i praktyk, takich jak tworzenie repozytoriów, commitowanie zmian, tworzenie gałęzi i rozwiązywanie konfliktów.
+
+Wybierz jedno narzędzie CI/CD do nauki:
+Wybierz jedno z popularnych narzędzi CI/CD, na którym będziesz się uczyć. Zainstaluj to narzędzie lokalnie lub skorzystaj z usług w chmurze, jeśli jest dostępne.
+
+Utwórz prosty projekt
+Utwórz prosty projekt programistyczny (np. aplikacja webowa), który będzie bazą dla Twoich prób z CI/CD.
+
+Skonfiguruj proces Continuous Integration:
+Zintegruj swój projekt z wybranym narzędziem CI/CD, skonfiguruj środowisko i napisz skrypt budowania (np. plik .travis.yml dla Travis CI lub .gitlab-ci.yml dla GitLab CI/CD). Naucz się tworzyć testy jednostkowe i integracyjne dla swojego projektu, które będą automatycznie uruchamiane podczas procesu CI.
+
+Skonfiguruj proces Continuous Deployment/Delivery:
+Skonfiguruj proces CD, aby automatycznie wdrażać swoją aplikację na wybranym środowisku, takim jak serwer, kontener czy chmura. Naucz się zarządzać różnymi środowiskami, takimi jak testowe, stagingowe i produkcyjne.
+
+Optymalizacja procesu CI/CD:
+Zdobądź doświadczenie w optymalizacji procesu CI/CD poprzez ulepszanie skryptów budowania, implementację cache'owania i minimalizowanie czasu budowania oraz wdrażania.
+
+Śledzenie wyników i monitorowanie:
+Naucz się korzystać z narzędzi monitorowania i analizowania wyników CI/CD, takich jak zbieranie informacji o budowaniu, analiza logów, monitorowanie wydajności aplikacji oraz czasu działania. Wprowadzenie alertów i powiadomień może pomóc w szybszym wykrywaniu problemów i utrzymaniu wysokiej jakości kodu.
+
+Uczenie się najlepszych praktyk CI/CD:
+Zaznajom się z najlepszymi praktykami związanymi z CI/CD, takimi jak częste commitowanie, prowadzenie testów na różnych poziomach, stosowanie strategii wdrażania (np. blue-green deployment czy canary deployment), zarządzanie konfiguracją i przechowywanie tajnych danych.
+
+Poznanie zaawansowanych technologii i architektur:
+Dla bardziej zaawansowanych zastosowań, zrozumienie konteneryzacji (np. Docker) i orkiestracji (np. Kubernetes) może być pomocne w zarządzaniu i wdrażaniu aplikacji na większą skalę. Ponadto, zaznajomienie się z architekturą mikrousług może pomóc w zrozumieniu, jak rozbudowane systemy korzystają z CI/CD.
+
+Udział w społeczności i uczestnictwo w kursach:
+Dołącz do grup, forów czy społeczności internetowych poświęconych CI/CD, aby uczyć się od innych i dzielić się swoimi doświadczeniami. Skorzystaj z dostępnych zasobów, takich jak kursy, prezentacje, artykuły i tutoriale.
+
+Praktyka i stałe doskonalenie:
+Praktyka jest kluczem do opanowania CI/CD. Kontynuuj rozwijanie swoich umiejętności poprzez pracę nad kolejnymi projektami, uczestniczenie w wydarzeniach branżowych i stałe poszerzanie swojej wiedzy. Pamiętaj, że technologie i narzędzia szybko się zmieniają, więc bądź na bieżąco z aktualnymi trendami i innowacjami w CI/CD.
+
